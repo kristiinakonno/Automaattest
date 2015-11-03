@@ -11,7 +11,7 @@ public class Calc {
   public static final int juniorExtraHoursPay = 10;
   public static final int seniorPay = 15;
   public static final int seniorExtraHoursPay = 20;
-  public static final int specialistPay = 20;
+  public static final int specialistPay = 22;
   public static final int specialistExtraHoursPay = 30;
   
   public static final int doublePayHoursStart = 8;
